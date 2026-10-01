@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789853257431,
+      "tag": "0000_opposite_barracuda",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789855223204,
+      "tag": "0001_busy_vertigo",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789927100582,
+      "tag": "0002_smiling_james_howlett",
+      "breakpoints": true
+    }
+  ]
+}
